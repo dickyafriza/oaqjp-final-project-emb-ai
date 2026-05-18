@@ -1,4 +1,6 @@
-# Emotion Detection Application
+# Final Project
+
+**Project Name:** Final Project
 
 An emotion detection web application built using **Watson NLP Library** and **Flask**. This project analyzes text input and detects emotions — anger, disgust, fear, joy, and sadness — identifying the dominant emotion.
 
